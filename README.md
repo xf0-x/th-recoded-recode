@@ -6,22 +6,7 @@
 > I Renwewed the work for thunderhack i will port it to 1.21.1 and more.
 > New. ORGINAL thunderhack from the official owner  [Discord server](https://discord.gg/PvBhPWdkVD)
 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/934396624111824900/1230019159027617792/furro.gif?ex=6631cb9c&is=661f569c&hm=b6cee2cd9b6ec238f54c80dcfc421f2c8ecd3f750f2f61a62087d1e01d201e4d&" style="width: 69%">
-</div>
 
-
-<div align="center">
-
-[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/PvBhPWdkVD)
-
-</div>
-
-
-# Cya 04.04.23 - 9.10.24 project!
-<div align="center">
-<img src="assets/U03-01-20-U12-05-01-14.png">
-</div>
 
 ## Information
 
@@ -57,14 +42,3 @@
 <details>
 <summary>SWORD HVH</summary>
 
-![image](assets/5.gif)
-</details>
-
-![image](https://github.com/Pan4ur/ThunderHack-Recode/assets/82473048/1e56338f-58a1-4759-8234-858878bdde3f)
-
-## Addons
-
-### Resources
-
-- [Addon Template](https://github.com/cvs0/ThunderHack-Recode-Addon-Template) by cvs0
-- [ThunderHack Addon Docs (COMING SOON)]()
