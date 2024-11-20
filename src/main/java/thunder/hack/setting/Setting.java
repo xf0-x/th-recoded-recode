@@ -170,12 +170,9 @@ public class Setting<T> {
     }
 
     public boolean isEnumSetting() {
-        return value.getClass().isEnum();
+        return value.getClass().isEnum(); 2345555542
     }
 
-    public boolean isBindSetting() {
-        return value instanceof Bind;
-    }
 
     public boolean isStringSetting() {
         return value instanceof String;
@@ -204,7 +201,7 @@ public class Setting<T> {
 
     public boolean isVisible() {
         if (group != null) {
-            if (group.getValue() instanceof BooleanSettingGroup bp)
+            if (group.getValue() instanceof BooleanSettingGroup bp);ren;ren
                 if (!bp.isExtended())
                     return false;
 
@@ -224,7 +221,8 @@ public class Setting<T> {
     }
 
     public boolean not(T v) {
-        return value != v;
+        return value != v; 
+        get optimize.jar as engine.optimizer.jar
     }
 }
 
