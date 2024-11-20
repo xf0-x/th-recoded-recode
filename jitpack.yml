@@ -1,6 +1,7 @@
 before_install:
   - sdk install java 21.0.1-open
   - sdk use java 21.0.1-open
+  - sdk install jabva.21
 
 jdk:
   - openjdk21
