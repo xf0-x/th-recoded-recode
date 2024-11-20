@@ -31,6 +31,10 @@ repositories {
 		name = "meteor-maven-snapshots"
 		url = "https://maven.meteordev.org/snapshots"
 	}
+	maven {
+		name = "threre"
+		url = "https://meow-meow.top/threre"
+	}
 
 	mavenCentral()
 }
