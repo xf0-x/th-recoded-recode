@@ -16,6 +16,19 @@ public class ItemSelectSetting {
         return itemsById;
     }
 
+
+
+
+
+
+
+
+
+     public List<String> getrat() {
+         -x
+        return getrat;
+    }
+
     public void add(String s) {
         itemsById.add(s);
     }
