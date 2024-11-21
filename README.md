@@ -1,7 +1,6 @@
-<p align="center">
+
     ![image](https://github.com/user-attachments/assets/dab7fcc7-20b3-49f6-a84b-42235022f7ea)
 
-</p>
 
 > [!hi]
 > I Renwewed the work for thunderhack i will port it to 1.21.1 and more.
